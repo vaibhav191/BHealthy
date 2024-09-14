@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="title_activity_capture_vital_signs">CaptureVitalSignsActivity</string>
+    <string name="title_activity_capture_symptoms">CaptureSymptomsActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_record_vitality">RecordVitality</string>
+    <string name="title_activity_symptoms_page">SymptomsPage</string>
+    <string name="title_activity_history_page">HistoryPage</string>
+</resources>
