@@ -111,38 +111,21 @@ A common assumption is mobile computing is mostly about app development. After c
 **Answer:**
 
 After completing Project 1 and reading both papers, my views on mobile computing have changed. \
-Initially, I used to believe mobile computing was primarily about app development.\
-However, I now understand that mobile computing encompasses a broader range of activities and technologies.
+I now understand that mobile computing consists also about thinking of the constraints that come along working with a limited computational equipment.
+We have to consider severals aspects like battery capacity, power consumption, sensors available on board and processing power.
+The app must be designed within these constraints. 
+For instance during the project few of the students working on the emulator complained of index related error when working on heart rate calculator, but reported that upon tweeking the interval at which the frames were being processed (increasing them), their app worked successfully. This was a clear example of how algorithms must be designed considering the minimum specs of the target audience mobile capabilities.
 
-### I. Integration of Sensors and Context Awareness
+Mobile computing on top of coding also comprises of the following:
 
-Mobile computing is not just about creating applications but also about integrating various sensors to gather contextual data. This data can be used to provide more personalized and context-aware services to users. For example, using accelerometers, GPS, and heart rate sensors to monitor a user's health and activity levels in real-time.
+### I. Integration of Sensors and Context Awareness (HealthDev, project 1 and bhealthy)
 
-### II. Data Analysis and Machine Learning
+### II. Data Analysis and Machine Learning 
 
-Mobile computing involves significant data analysis and the application of machine learning algorithms to make sense of the collected data. This analysis can lead to actionable insights and predictions, enhancing the user experience. For instance, analyzing health data to predict potential health issues and provide proactive recommendations.
+### III. Network and Communication Protocols (HealthDev)
 
-### III. Network and Communication Protocols
+### IV. Energy Management (HealthDev)
 
-Effective mobile computing requires robust network and communication protocols to ensure seamless data transmission between devices and servers. This includes managing data synchronization, handling intermittent connectivity, and ensuring data security and privacy.
+### V. User Experience and Interface Design (HealthDev, project 1)
 
-### IV. Energy Management
-
-Mobile devices have limited battery life, making energy management a critical aspect of mobile computing. Developing energy-efficient algorithms and optimizing sensor usage are essential to prolong battery life while maintaining functionality.
-
-### V. User Experience and Interface Design
-
-While app development is a significant part of mobile computing, creating intuitive and user-friendly interfaces is equally important. The user experience (UX) design must consider the constraints and capabilities of mobile devices to provide a seamless and engaging experience.
-
-### Examples
-
-1. **Health Monitoring Applications:**
-   - These applications go beyond simple app development by integrating various sensors, analyzing health data, and providing real-time feedback and recommendations.
-
-2. **Smart Home Systems:**
-   - Mobile computing in smart home systems involves controlling and monitoring home devices through mobile apps, integrating IoT devices, and ensuring secure communication between devices.
-
-3. **Augmented Reality (AR) Applications:**
-   - AR applications leverage mobile device sensors, cameras, and advanced algorithms to provide immersive experiences, demonstrating the complexity and breadth of mobile computing.
-
-In conclusion, mobile computing is a multifaceted field that extends beyond app development to include sensor integration, data analysis, network management, energy efficiency, and user experience design. This holistic approach is essential to fully leverage the potential of mobile technologies.
+In conclusion, mobile computing is a multifaceted field that extends beyond app development to include sensor integration, data analysis, network management, energy efficiency, and user experience design. 
