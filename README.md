@@ -85,47 +85,24 @@ Ideally, these components should be leveraged in conjunction with the Project's 
 This could be achieved using Data analysis, feedback mechanism, context sensing improvement, personalized recommendations and continuous improvements.
 This cycle is similar to SDLC.
 
+
 ### I. Data Analysis
-
-1. **Collect Data:**
-   - Data is collected using the project's application and stored in DB.
-
-2. **Analyze :**
-   - Leverage ML techniques to identify trends, to be used for recommendations.
-
+   - Stored data of symptoms, rates and ECC/ECG are fed to ML techniques to identify trends.
 ### II. Feedback Mechanism
-
-1. **Real-Time Feedback:**
    - Any urgent health alerts must be provided immediately, such as abnormal rise or fall in health or respiratory rates.
-
-2. **Periodic Reports:**
    - Periodic reports to summarize health.
-
 ### III. Context Sensing Improvement
-
-1. **User Behavior Modeling:**
    - Develop a user behavior model using the collected data and contextual information.
    - Use this model to predict potential health issues and provide proactive recommendations.
    - ECG and EEG sensors of the bHealthy app can be leveraged to collect data on user behavior as well.
-
 ### IV. User Interface Enhancements
-
-1. **Interactive Dashboard:**
    - Interactive dashboard allowing users to view detailed reports and insights.
-
-2. **Personalized Recommendations:**
    - Recommendations based on the user's data, behavior model and mood.
    - Tips for improving health and well-being.
-
 ### V. Continuous Improvement
-
-1. **User Feedback Loop:**
    - Implement a feedback loop where users can provide feedback on the application's performance and recommendations.
    - Use this feedback to continuously improve the application.
-
-2. **Regular Updates:**
    - Regularly update the application with new features and improvements based on user feedback and advancements in health monitoring technology.
-
 
 ## 3. Mobile Computing Perspectives
 
