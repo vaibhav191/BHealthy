@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is inspired by the BHealthy and Health-Dev papers. It aims to monitor heart rate and respiratory rate using a smartphone. The heart rate is calculated by capturing a video of the user's finger placed on the camera. The video is processed to analyze the pixel changes, which are used to calculate the RBC values every frame, allowing us to approximate the heart rate.
+This project is inspired by the BHealthy[1] and Health-Dev[2] papers. It aims to monitor heart rate and respiratory rate using a smartphone. The heart rate is calculated by capturing a video of the user's finger placed on the camera. The video is processed to analyze the pixel changes, which are used to calculate the RBC values every frame, allowing us to approximate the heart rate.
 
 Similarly, the respiratory rate is approximated by capturing the X, Y, Z orientation of the phone when it is placed on a user's chest while they are lying down. As the user breathes, the phone's orientation changes, which is then used to estimate the respiratory rate.
 
@@ -44,8 +44,8 @@ Since this project was developed using an emulator, video and X, Y, Z orientatio
 
 ## References
 
-- BHealthy Paper
-- Health-Dev Paper
+1. BHealthy Paper: Milazzo, Joseph, et al. "bhealthy: A physiological feedback-based mobile wellness application suite." Proceedings of the 4th Conference on Wireless Health. 2013.
+2. Health-Dev Paper: Banerjee, Ayan, et al. "Health-dev: Model based development pervasive health monitoring systems." 2012 Ninth International Conference on Wearable and Implantable Body Sensor Networks. IEEE, 2012.
 
 ## License
 
