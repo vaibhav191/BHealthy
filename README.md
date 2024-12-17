@@ -16,6 +16,10 @@ Check out our demo video [here](https://youtu.be/-1xG1UfvwBI).
 - **Respiratory Rate Monitoring**: Uses the phone's orientation sensors to capture the X, Y, Z orientation changes as the user breathes, and estimates the respiratory rate.
 - **Records Data**: Saves the heart rate and respiratory rate data for future reference and allows users to store any other symptoms they might be facing.
 
+<img src="assets/bHealthy-home.png" alt="Home Screen" width="200"/>
+<img src="assets/bHealthy-recordScreen.png" alt="Capture Vital Signs" width="200"/>
+<img src="assets/bHealthy-CaptureSymptomsScreen.png" alt="Capture Symptoms" width="200"/>
+
 ## Implementation Details
 
 - **Technologies Used**:
